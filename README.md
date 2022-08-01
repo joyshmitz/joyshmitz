@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joyshmitz
 - 👀 I’m interested in energy management
-- 🌱 I’m currently learning from the github community
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on energy management projects
 - 📫 How to reach me jshmitz @ me.com
 
