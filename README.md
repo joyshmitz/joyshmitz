@@ -2,7 +2,7 @@
 - 👀 I’m interested in energy management
 - 🌱 I’m currently learning from the github community
 - 💞️ I’m looking to collaborate on energy management projects
-- 📫 How to reach me jshmitz@me.com
+- 📫 How to reach me jshmitz @ me.com
 
 <!---
 joyshmitz/joyshmitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
