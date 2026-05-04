@@ -4,7 +4,6 @@
 
   **Current focus**
 
-  - Cross-layer contract testing on [AERIS-10](https://github.com/NawfalMotii79/PLFM_RADAR) — open-source 10.5 GHz phased-array radar.
   - Rust systems work — context management for LLM agents ([openfang-lcm](https://github.com/joyshmitz/openfang-lcm)), SSH-2 reimplementation
   ([frankenssh](https://github.com/joyshmitz/frankenssh)), AI agent governance ([ampersona](https://github.com/joyshmitz/ampersona)).
 
